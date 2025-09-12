@@ -1,3 +1,4 @@
+[![Watch the demo](https://img.youtube.com/vi/b8jqZNgjUUw/hqdefault.jpg)](https://youtu.be/b8jqZNgjUUw "Play video on YouTube")
 # MyBabyFits E2E Testing Suite
 
 <div align="center">
